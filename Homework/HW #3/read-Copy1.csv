@@ -1,0 +1,5 @@
+Type, Cost, Neighborhood, Restrictions, OK
+Fast food, $, Oakland, Vegetarian, 0
+Casual, $, Oakland, Vegetarian, 1
+Ethnic, $, Squirrel hill, None, 1
+Casual, $, Shadyside, Gluten free, 0

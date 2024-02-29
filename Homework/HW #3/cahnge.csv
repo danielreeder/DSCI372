@@ -1,0 +1,12 @@
+Neighborhood;Type;Cost;Restrictions;OK
+Oakland;Fast food;$;Vegetarian;0
+Squirrel hill;Ethnic;$$;Gluten free;0
+Squirrel hill;Casual;$$;;0
+Shadyside;Casual;$$$;Vegetarian;0
+Oakland;Casual;$;Vegetarian;1
+Squirrel hill;Fast food;$$;;1
+Squirrel hill;Ethnic;$;;1
+Shadyside;Casual;$;Gluten free;0
+Oakland;Fast food;$$$;;0
+Shadyside;Ethnic;$$;Vegetarian;1
+Shadyside;Casual;$$;Gluten free;1
